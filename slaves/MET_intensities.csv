@@ -1,0 +1,822 @@
+CODE;METS;MAJOR HEADING;SPECIFIC ACTIVITIES;ESTIMATION
+1003;14;bicycling;bicycling, mountain, uphill, vigorous;FALSCH
+1004;16;bicycling;bicycling, mountain, competitive, racing;FALSCH
+1008;8.5;bicycling;bicycling, BMX;WAHR
+1009;8.5;bicycling;bicycling, mountain, general;WAHR
+1010;4;bicycling;bicycling, <10 mph, leisure, to work or for pleasure (Taylor Code 115);FALSCH
+1011;6.8;bicycling;bicycling, to/from work, self selected pace;FALSCH
+1013;5.8;bicycling;bicycling, on dirt or farm road, moderate pace;FALSCH
+1015;7.5;bicycling;bicycling, general;FALSCH
+1018;3.5;bicycling;bicycling, leisure, 5.5 mph;FALSCH
+1019;5.8;bicycling;bicycling, leisure, 9.4 mph;FALSCH
+1020;6.8;bicycling;bicycling, 10-11.9 mph, leisure, slow, light effort;FALSCH
+1030;8;bicycling;bicycling, 12-13.9 mph, leisure, moderate effort;FALSCH
+1040;10;bicycling;bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort;FALSCH
+1050;12;bicycling;bicycling, 16-19 mph, racing/not drafting or > 19 mph drafting, very fast, racing general;WAHR
+1060;15.8;bicycling;bicycling, > 20 mph, racing, not drafting;FALSCH
+1065;8.5;bicycling;bicycling, 12 mph, seated, hands on brake hoods or bar drops, 80 rpm;FALSCH
+1066;9;bicycling;bicycling, 12 mph, standing, hands on brake hoods, 60 rpm;FALSCH
+1070;5;bicycling;unicycling;WAHR
+2001;2.3;conditioning exercise;activity promoting video game (e.g., Wii Fit), light effort (e.g., balance, yoga);FALSCH
+2003;3.8;conditioning exercise;activity promoting video game (e.g., Wii Fit), moderate effort (e.g., aerobic, resistance);FALSCH
+2005;7.2;conditioning exercise;activity promoting video/arcade game (e.g., Exergaming, Dance Dance Revolution), vigorous effort;FALSCH
+2008;5;conditioning exercise;army type obstacle course exercise, boot camp training program?;FALSCH
+2010;7;conditioning exercise;bicycling, stationary, general;WAHR
+2011;3.5;conditioning exercise;bicycling, stationary, 30-50 watts, very light to light effort;FALSCH
+2012;6.8;conditioning exercise;bicycling, stationary, 90-100 watts, moderate to vigorous effort;FALSCH
+2013;8.8;conditioning exercise;bicycling, stationary, 101-160 watts, vigorous effort;FALSCH
+2014;11;conditioning exercise;bicycling, stationary, 161-200 watts, vigorous effort;FALSCH
+2015;14;conditioning exercise;bicycling, stationary, 201-270 watts, very vigorous effort;FALSCH
+2017;4.8;conditioning exercise;bicycling, stationary, 51-89 watts, light-to-moderate effort?;FALSCH
+2019;8.5;conditioning exercise;bicycling, stationary, RPM/Spin bike class?;FALSCH
+2020;8;conditioning exercise;calisthenics (e.g., push ups, sit ups, pull-ups, jumping jacks), vigorous effort;WAHR
+2022;3.8;conditioning exercise;calisthenics (e.g., push ups, sit ups, pull-ups, lunges), moderate effort;FALSCH
+2024;2.8;conditioning exercise;calisthenics (e.g., situps, abdominal crunches), light effort;FALSCH
+2030;3.5;conditioning exercise;calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor (Taylor Code 150);FALSCH
+2035;4.3;conditioning exercise;circuit training, moderate effort;FALSCH
+2040;8;conditioning exercise;circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity;FALSCH
+2045;3.5;conditioning exercise;CurvesTM?exercise routines in women?;FALSCH
+2048;5;conditioning exercise;Elliptical trainer, moderate effort?;FALSCH
+2050;6;conditioning exercise;resistance training (weight lifting, free weight, nautilus or universal), power lifting or body building, vigorous effort (Taylor Code 210);FALSCH
+2052;5;conditioning exercise;resistance (weight) training, squats , slow or explosive effort;FALSCH
+2054;3.5;conditioning exercise;resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance?;FALSCH
+2060;5.5;conditioning exercise;health club exercise, general (Taylor Code 160);FALSCH
+2061;5;conditioning exercise;health club exercise classes, general, gym/weight training combined in one visit;FALSCH
+2062;7.8;conditioning exercise;health club exercise, conditioning classes;FALSCH
+2064;3.8;conditioning exercise;home exercise, general?;FALSCH
+2065;9;conditioning exercise;stair-treadmill ergometer, general;WAHR
+2068;12.3;conditioning exercise;rope skipping, general;FALSCH
+2070;6;conditioning exercise;rowing, stationary ergometer, general, vigorous effort;WAHR
+2071;4.8;conditioning exercise;rowing, stationary, general, moderate effort;FALSCH
+2072;7;conditioning exercise;rowing, stationary, 100 watts, moderate effort;WAHR
+2073;8.5;conditioning exercise;rowing, stationary, 150 watts, vigorous effort;WAHR
+2074;12;conditioning exercise;rowing, stationary, 200 watts, very vigorous effort;WAHR
+2080;6.8;conditioning exercise;ski machine, general;FALSCH
+2085;11;conditioning exercise;slide board exercise, general?;FALSCH
+2090;6;conditioning exercise;slimnastics, jazzercise;WAHR
+2101;2.3;conditioning exercise;stretching, mild;FALSCH
+2105;3;conditioning exercise;pilates, general?;FALSCH
+2110;6.8;conditioning exercise;teaching exercise class (e.g., aerobic, water);FALSCH
+2112;2.8;conditioning exercise;therapeutic exercise ball, Fitball exercise?;FALSCH
+2115;2.8;conditioning exercise;upper body exercise, arm ergometer?;FALSCH
+2117;4.3;conditioning exercise;upper body exercise, stationary bicycle - Airdyne (arms only) 40 rpm, moderate?;FALSCH
+2120;5.3;conditioning exercise;water aerobics, water calisthenics, water exercise;FALSCH
+2135;1.3;conditioning exercise;whirlpool, sitting;WAHR
+2140;2.3;conditioning exercise;video exercise workouts, TV conditioning programs (e.g., yoga, stretching), light effort;WAHR
+2143;4;conditioning exercise;video exercise workouts, TV conditioning programs (e.g., cardio-resistance), moderate effort;WAHR
+2146;6;conditioning exercise;video exercise workouts, TV conditioning programs (e.g., cardio-resistance), vigorous effort;FALSCH
+2150;2.5;conditioning exercise;yoga, Hatha?;FALSCH
+2160;4;conditioning exercise;yoga, Power?;WAHR
+2170;2;conditioning exercise;yoga, Nadisodhana?;FALSCH
+2180;3.3;conditioning exercise;yoga, Surya Namaskar;FALSCH
+2200;5.3;conditioning exercise;native New Zealander physical activities (e.g., Haka Powhiri, Moteatea, Waita Tira, Whakawatea, etc.), general, moderate effort;FALSCH
+2205;6.8;conditioning exercise;native New Zealander physical activities (e.g., Haka, Taiahab), general, vigorous effort;FALSCH
+3010;5;dancing;ballet, modern, or jazz, general, rehearsal or class;FALSCH
+3012;6.8;dancing;ballet, modern, or jazz, performance, vigorous effort?;FALSCH
+3014;4.8;dancing;tap?;FALSCH
+3015;7.3;dancing;aerobic, general;FALSCH
+3016;7.5;dancing;aerobic, step, with 6 - 8 inch step;FALSCH
+3017;9.5;dancing;aerobic, step, with 10 - 12 inch step;FALSCH
+3018;5.5;dancing;aerobic, step, with 4-inch step?;FALSCH
+3019;8.5;dancing;bench step class, general?;FALSCH
+3020;5;dancing;aerobic, low impact;WAHR
+3021;7.3;dancing;aerobic, high impact;FALSCH
+3022;10;dancing;aerobic dance wearing 10-15 lb weights?;FALSCH
+3025;4.5;dancing;ethnic or cultural dancing (e.g., Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing);WAHR
+3030;5.5;dancing;ballroom, fast (Taylor Code 125);FALSCH
+3031;7.8;dancing;general dancing (e.g., disco, folk, Irish step dancing, line dancing, polka, contra, country);FALSCH
+3038;11.3;dancing;ballroom dancing, competitive, general?;FALSCH
+3040;3;dancing;ballroom, slow (e.g., waltz, foxtrot, slow dancing, samba, tango, 19th?century dance, mambo, cha cha);WAHR
+3050;5.5;dancing;Anishinaabe Jingle Dancing;FALSCH
+3060;3.5;dancing;Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin's, Caribbean Quadrills, Dinki Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina, Oreisha, Jambu);FALSCH
+4001;3.5;fishing and hunting;fishing, general;FALSCH
+4005;4.5;fishing and hunting;fishing, crab fishing?;FALSCH
+4007;4;fishing and hunting;fishing, catching fish with hands?;FALSCH
+4010;4.3;fishing and hunting;fishing related, digging worms, with shovel;FALSCH
+4020;4;fishing and hunting;fishing from river bank and walking;WAHR
+4030;2;fishing and hunting;fishing from boat or canoe, sitting;WAHR
+4040;3.5;fishing and hunting;fishing from river bank, standing (Taylor Code 660);WAHR
+4050;6;fishing and hunting;fishing in stream, in waders (Taylor Code 670);WAHR
+4060;2;fishing and hunting;fishing, ice, sitting;WAHR
+4061;1.8;fishing and hunting;fishing, jog or line, standing, general?;FALSCH
+4062;3.5;fishing and hunting;fishing, dip net, setting net and retrieving fish, general;WAHR
+4063;3.8;fishing and hunting;fishing, set net, setting net and retrieving fish, general;FALSCH
+4064;3;fishing and hunting;fishing, fishing wheel, setting net and retrieving fish, general;WAHR
+4065;2.3;fishing and hunting;fishing with a spear, standing?;FALSCH
+4070;2.5;fishing and hunting;hunting, bow and arrow, or crossbow;WAHR
+4080;6;fishing and hunting;hunting, deer, elk, large game (Taylor Code 170);FALSCH
+4081;11.3;fishing and hunting;hunting large game, dragging carcass?;FALSCH
+4083;4;fishing and hunting;hunting large marine animals?;WAHR
+4085;2.5;fishing and hunting;hunting large game, from a hunting stand, limited walking?;WAHR
+4086;2;fishing and hunting;hunting large game from a car, plane, or boat;WAHR
+4090;2.5;fishing and hunting;hunting, duck, wading;WAHR
+4095;3;fishing and hunting;hunting, flying fox, squirrel?;FALSCH
+4100;5;fishing and hunting;hunting, general;WAHR
+4110;6;fishing and hunting;hunting, pheasants or grouse (Taylor Code 680);FALSCH
+4115;3.3;fishing and hunting;hunting, birds?;FALSCH
+4120;5;fishing and hunting;hunting, rabbit, squirrel, prairie chick, raccoon, small game (Taylor Code 690);FALSCH
+4123;3.3;fishing and hunting;hunting, pigs, wild?;FALSCH
+4124;2;fishing and hunting;trapping game, general?;WAHR
+4125;9.5;fishing and hunting;hunting, hiking with hunting gear?;FALSCH
+4130;2.5;fishing and hunting;pistol shooting or trap shooting, standing;WAHR
+4140;2.3;fishing and hunting;rifle exercises, shooting, lying down?;FALSCH
+4145;2.5;fishing and hunting;rifle exercises, shooting, kneeling or standing?;FALSCH
+5010;3.3;home activities;cleaning, sweeping carpet or floors, general;FALSCH
+5011;2.3;home activities;cleaning, sweeping, slow, light effort?;FALSCH
+5012;3.8;home activities;cleaning, sweeping, slow, moderate?effort;FALSCH
+5020;3.5;home activities;cleaning, heavy or major (e.g. wash car, wash windows, clean garage), moderate effort;WAHR
+5021;3.5;home activities;cleaning, mopping, standing, moderate effort;FALSCH
+5022;3.2;home activities;cleaning windows, washing windows, general;FALSCH
+5023;2.5;home activities;mopping, standing, light effort;FALSCH
+5024;4.5;home activities;polishing floors, standing, walking slowly, using electric polishing machine?;FALSCH
+5025;2.8;home activities;multiple household tasks all at once, light effort;FALSCH
+5026;3.5;home activities;multiple household tasks all at once, moderate effort;WAHR
+5027;4.3;home activities;multiple household tasks all at once, vigorous effort;FALSCH
+5030;3.3;home activities;cleaning, house or cabin, general, moderate effort;FALSCH
+5032;2.3;home activities;dusting or polishing furniture, general;FALSCH
+5035;3.3;home activities;kitchen activity, general, (e.g., cooking, washing dishes, cleaning up), moderate effort;FALSCH
+5040;2.5;home activities;cleaning, general (straightening up, changing linen, carrying out trash, light effort;FALSCH
+5041;1.8;home activities;wash dishes, standing or in general (not broken into stand/walk components);FALSCH
+5042;2.5;home activities;wash dishes, clearing dishes from table, walking, light effort;WAHR
+5043;3.3;home activities;vacuuming, general, moderate effort;FALSCH
+5044;3;home activities;butchering animals, small?;WAHR
+5045;6;home activities;butchering animal, large, vigorous effort;WAHR
+5046;2.3;home activities;cutting and smoking fish, drying fish or meat?;WAHR
+5048;4;home activities;tanning hides, general;WAHR
+5049;3.5;home activities;cooking or food preparation, moderate effort;FALSCH
+5050;2;home activities;cooking or food preparation - standing or sitting or in general (not broken into stand/walk components), manual appliances, light effort;FALSCH
+5051;2.5;home activities;serving food, setting table, implied walking or standing;WAHR
+5052;2.5;home activities;cooking or food preparation, walking;WAHR
+5053;2.5;home activities;feeding household animals;WAHR
+5055;2.5;home activities;putting away groceries (e.g. carrying groceries, shopping without a grocery cart), carrying packages;WAHR
+5056;7.5;home activities;carrying groceries upstairs;WAHR
+5057;3;home activities;cooking Indian bread on an outside stove;WAHR
+5060;2.3;home activities;food shopping with or without a grocery cart, standing or walking;FALSCH
+5065;2.3;home activities;non-food shopping, with or without a cart, standing or walking;WAHR
+5070;1.8;home activities;ironing;FALSCH
+5080;1.3;home activities;knitting, sewing, light effort, wrapping presents, sitting;FALSCH
+5082;2.8;home activities;sewing with a machine?;FALSCH
+5090;2;home activities;laundry, fold or hang clothes, put clothes in washer or dryer, packing suitcase, washing clothes by hand, implied standing, light effort;FALSCH
+5092;4;home activities;laundry, hanging wash, washing clothes by hand, moderate effort?;FALSCH
+5095;2.3;home activities;laundry, putting away clothes, gathering clothes to pack, putting away laundry, implied walking;WAHR
+5100;3.3;home activities;making bed, changing linens;FALSCH
+5110;5;home activities;maple syruping/sugar bushing (including carrying buckets, carrying wood);FALSCH
+5120;5.8;home activities;moving furniture, household items, carrying boxes;FALSCH
+5121;5;home activities;moving, lifting light loads;FALSCH
+5125;4.8;home activities;organizing room;FALSCH
+5130;3.5;home activities;scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort;FALSCH
+5131;2;home activities;scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort;FALSCH
+5132;6.5;home activities;scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort;FALSCH
+5140;4;home activities;sweeping garage, sidewalk or outside of house;WAHR
+5146;3.5;home activities;standing, packing/unpacking boxes, occasional lifting of lightweight household items, loading or unloading items in car, moderate effort;WAHR
+5147;3;home activities;implied walking, putting away household items, moderate effort;WAHR
+5148;2.5;home activities;watering plants;WAHR
+5149;2.5;home activities;building a fire inside;WAHR
+5150;9;home activities;moving household items upstairs, carrying boxes or furniture;WAHR
+5160;2;home activities;standing, light effort tasks (pump gas, change light bulb, etc.);WAHR
+5165;3.5;home activities;walking,?moderate effort tasks, non-cleaning (readying to leave, shut/lock doors, close windows, etc.);FALSCH
+5170;2.2;home activities;sitting, playing with child(ren), light effort, only active periods;FALSCH
+5171;2.8;home activities;standing, playing with child(ren) light effort, only active periods;WAHR
+5175;3.5;home activities;walking/running, playing with child(ren), moderate effort, only active periods;FALSCH
+5180;5.8;home activities;walking/running, playing with child(ren), vigorous effort, only active periods;FALSCH
+5181;3;home activities;walking and carrying small child, child weighing 15 lbs or more;WAHR
+5182;2.3;home activities;walking and?carrying small child, child weighing less than 15 lbs;FALSCH
+5183;2;home activities;standing, holding child;FALSCH
+5184;2.5;home activities;child care, infant, general?;FALSCH
+5185;2;home activities;child care, sitting/kneeling (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), light effort, general;FALSCH
+5186;3;home activities;child care, standing (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), moderate effort;WAHR
+5188;1.5;home activities;reclining with baby;WAHR
+5189;2;home activities;breastfeeding, sitting or reclining?;FALSCH
+5190;2.5;home activities;sit, playing with animals, light effort, only active periods;WAHR
+5191;2.8;home activities;stand, playing with animals, light effort, only active periods;WAHR
+5192;3;home activities;walk/run, playing with animals, general, light effort, only active periods;FALSCH
+5193;4;home activities;walk/run, playing with animals, moderate effort, only active periods;WAHR
+5194;5;home activities;walk/run, playing with animals, vigorous effort, only active periods;WAHR
+5195;3.5;home activities;standing, bathing dog;WAHR
+5197;2.3;home activities;animal care, household animals, general?;WAHR
+5200;4;home activities;elder care, disabled adult, bathing, dressing, moving into and out of bed, only active periods;WAHR
+5205;2.3;home activities;elder care, disabled adult, feeding, combing hair, light effort, only active periods;WAHR
+6010;3;home repair;airplane repair;WAHR
+6020;4;home repair;automobile body work;WAHR
+6030;3.3;home repair;automobile repair, light or moderate effort;FALSCH
+6040;3;home repair;carpentry, general, workshop (Taylor Code 620);FALSCH
+6050;6;home repair;carpentry, outside house, installing rain gutters (Taylor Code 640),carpentry, outside house, building a fence;FALSCH
+6052;3.8;home repair;carpentry, outside house, building a fence?;FALSCH
+6060;3.3;home repair;carpentry, finishing or refinishing cabinets or furniture;FALSCH
+6070;6;home repair;carpentry, sawing hardwood;FALSCH
+6072;4;home repair;carpentry, home remodeling tasks, moderate effort?;FALSCH
+6074;2.3;home repair;carpentry, home remodeling tasks, light effort??;FALSCH
+6080;5;home repair;caulking, chinking log cabin;WAHR
+6090;4.5;home repair;caulking, except log cabin;WAHR
+6100;5;home repair;cleaning gutters;WAHR
+6110;5;home repair;excavating garage;WAHR
+6120;5;home repair;hanging storm windows;WAHR
+6122;5;home repair;hanging sheet rock inside house?;WAHR
+6124;3;home repair;hammering nails?;FALSCH
+6126;2.5;home repair;home repair, general, light effort?;WAHR
+6127;4.5;home repair;home repair, general, moderate effort?;WAHR
+6128;6;home repair;home repair, general, vigorous effort?;WAHR
+6130;4.5;home repair;laying or removing carpet;WAHR
+6140;3.8;home repair;laying tile or linoleum,repairing appliances;FALSCH
+6144;3;home repair;repairing appliances?;WAHR
+6150;5;home repair;painting, outside home (Taylor Code 650);FALSCH
+6160;3.3;home repair;painting inside house,wallpapering, scraping paint;FALSCH
+6165;4.5;home repair;painting, (Taylor Code 630);FALSCH
+6167;3;home repair;plumbing, general?;WAHR
+6170;3;home repair;put on and removal of tarp - sailboat;WAHR
+6180;6;home repair;roofing;WAHR
+6190;4.5;home repair;sanding floors with a power sander;WAHR
+6200;4.5;home repair;scraping and painting sailboat or powerboat;WAHR
+6205;2;home repair;sharpening tools?;FALSCH
+6210;5;home repair;spreading dirt with a shovel;WAHR
+6220;4.5;home repair;washing and waxing hull of sailboat or airplane;WAHR
+6225;2;home repair;washing and waxing car?;FALSCH
+6230;4.5;home repair;washing fence, painting fence, moderate effort;WAHR
+6240;3.3;home repair;wiring, tapping-splicing;FALSCH
+7010;1;inactivity quiet/light;lying quietly and watching television;WAHR
+7011;1.3;inactivity quiet/light;lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading);FALSCH
+7020;1.3;inactivity quiet/light;sitting quietly and watching television;FALSCH
+7021;1.3;inactivity quiet/light;sitting quietly, general;FALSCH
+7022;1.5;inactivity quiet/light;sitting quietly, fidgeting, general, fidgeting hands;FALSCH
+7023;1.8;inactivity quiet/light;sitting, fidgeting feet;FALSCH
+7024;1.3;inactivity quiet/light;sitting, smoking;WAHR
+7025;1.5;inactivity quiet/light;sitting, listening to music (not talking or reading) or watching a movie in a theater;FALSCH
+7026;1.3;inactivity quiet/light;sitting at a desk, resting head in hands;FALSCH
+7030;1;inactivity quiet/light;sleeping;FALSCH
+7040;1.3;inactivity quiet/light;standing quietly, standing in a line;FALSCH
+7041;1.8;inactivity quiet/light;standing, fidgeting;FALSCH
+7050;1.3;inactivity quiet/light;reclining, writing;WAHR
+7060;1.3;inactivity quiet/light;reclining, talking or talking on phone;WAHR
+7070;1.3;inactivity quiet/light;reclining, reading;FALSCH
+7075;1;inactivity quiet/light;meditating;WAHR
+8009;3.3;lawn and garden;carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to-moderate effort?;FALSCH
+8010;5.5;lawn and garden;carrying, loading or stacking wood, loading/unloading or carrying lumber;FALSCH
+8019;4.5;lawn and garden;chopping wood, splitting logs, moderate effort;FALSCH
+8020;6.3;lawn and garden;chopping wood, splitting logs, vigorous effort;FALSCH
+8025;3.5;lawn and garden;clearing light brush, thinning garden, moderate effort?;FALSCH
+8030;6.3;lawn and garden;clearing brush/land, undergrowth, or ground, hauling branches, wheelbarrow chores, vigorous effort;FALSCH
+8040;5;lawn and garden;digging sandbox, shoveling sand;FALSCH
+8045;3.5;lawn and garden;digging, spading, filling garden, composting, light-to-moderate effort;FALSCH
+8050;5;lawn and garden;digging, spading, filling garden, compositing, (Taylor Code 590);FALSCH
+8052;7.8;lawn and garden;digging, spading, filling garden, composting, vigorous effort?;FALSCH
+8055;2.8;lawn and garden;driving tractor?;FALSCH
+8057;8.3;lawn and garden;felling trees, large size;FALSCH
+8058;5.3;lawn and garden;felling trees, small-medium size;FALSCH
+8060;5.8;lawn and garden;gardening with heavy power tools, tilling a garden, chain saw;FALSCH
+8065;2.3;lawn and garden;gardening, using containers, older adults > 60 years?;FALSCH
+8070;4;lawn and garden;irrigation channels, opening and closing ports?;FALSCH
+8080;6.3;lawn and garden;laying crushed rock;FALSCH
+8090;5;lawn and garden;laying sod;WAHR
+8095;5.5;lawn and garden;mowing lawn, general;FALSCH
+8100;2.5;lawn and garden;mowing lawn, riding mower (Taylor Code 550);FALSCH
+8110;6;lawn and garden;mowing lawn, walk, hand mower (Taylor Code 570);FALSCH
+8120;5;lawn and garden;mowing lawn, walk, power mower, moderate or vigorous effort;FALSCH
+8125;4.5;lawn and garden;mowing lawn, power mower, light or moderate effort (Taylor Code 590);FALSCH
+8130;2.5;lawn and garden;operating snow blower, walking;FALSCH
+8135;2;lawn and garden;planting, potting, transplanting seedlings or plants, light effort?;FALSCH
+8140;4.3;lawn and garden;planting seedlings, shrub, stooping, moderate effort;FALSCH
+8145;4.3;lawn and garden;planting crops or garden, stooping, moderate effort?;FALSCH
+8150;4.5;lawn and garden;planting trees;WAHR
+8160;3.8;lawn and garden;raking lawn or leaves, moderate effort;FALSCH
+8165;4;lawn and garden;raking lawn (Taylor Code 600);FALSCH
+8170;4;lawn and garden;raking roof with snow rake;WAHR
+8180;3;lawn and garden;riding snow blower;WAHR
+8190;4;lawn and garden;sacking grass, leaves;WAHR
+8192;5.5;lawn and garden;shoveling dirt or mud?;FALSCH
+8195;5.3;lawn and garden;shoveling snow, by hand, moderate effort?;FALSCH
+8200;6;lawn and garden;shovelling snow, by hand (Taylor Code 610);FALSCH
+8202;7.5;lawn and garden;shoveling snow, by hand, vigorous effort;FALSCH
+8210;4;lawn and garden;trimming shrubs or trees, manual cutter;FALSCH
+8215;3.5;lawn and garden;trimming shrubs or trees, power cutter, using leaf blower, edge, moderate effort;FALSCH
+8220;3;lawn and garden;walking, applying fertilizer or seeding a lawn, push applicator;FALSCH
+8230;1.5;lawn and garden;watering lawn or garden, standing or walking;WAHR
+8239;3.5;lawn and garden;weeding, cultivating garden, light-to-moderate effort?;FALSCH
+8240;4.5;lawn and garden;weeding, cultivating garden (Taylor Code 580);FALSCH
+8241;5;lawn and garden;weeding, cultivating garden, using a hoe, moderate-to-vigorous effort;FALSCH
+8245;3.8;lawn and garden;gardening, general, moderate effort;FALSCH
+8246;3.5;lawn and garden;picking fruit off trees, picking fruits/vegetables, moderate effort;FALSCH
+8248;4.5;lawn and garden;picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort?;FALSCH
+8250;3.3;lawn and garden;implied walking/standing - picking up yard, light, picking flowers or vegetables;FALSCH
+8251;3;lawn and garden;walking, gathering gardening tools;WAHR
+8255;5.5;lawn and garden;wheelbarrow, pushing garden cart or wheelbarrow?;FALSCH
+8260;3;lawn and garden;yard work, general, light effort;FALSCH
+8261;4;lawn and garden;yard work, general, moderate effort;FALSCH
+8262;6;lawn and garden;yard work, general, vigorous effort;FALSCH
+9000;1.5;miscellaneous;board game playing, sitting;WAHR
+9005;2.5;miscellaneous;casino gambling, standing;WAHR
+9010;1.5;miscellaneous;card playing,?sitting;FALSCH
+9013;1.5;miscellaneous;chess game, sitting;FALSCH
+9015;1.5;miscellaneous;copying documents, standing?;FALSCH
+9020;1.8;miscellaneous;drawing, writing, painting, standing;FALSCH
+9025;1;miscellaneous;laughing, sitting?;FALSCH
+9030;1.3;miscellaneous;sitting, reading, book, newspaper, etc.;FALSCH
+9040;1.3;miscellaneous;sitting, writing, desk work, typing;FALSCH
+9045;1;miscellaneous;sitting, playing traditional video game, computer game?;FALSCH
+9050;1.8;miscellaneous;standing, talking in person, on the phone, computer, or text messaging, light effort;WAHR
+9055;1.5;miscellaneous;sitting, talking in person, on the phone, computer, or text messaging, light effort;WAHR
+9060;1.3;miscellaneous;sitting, studying, general, including reading and/or writing, light effort;FALSCH
+9065;1.8;miscellaneous;sitting, in class, general, including note-taking or class discussion;FALSCH
+9070;1.8;miscellaneous;standing, reading;WAHR
+9071;2.5;miscellaneous;standing, miscellaneous;FALSCH
+9075;1.8;miscellaneous;sitting, arts and crafts,? carving wood, weaving, spinning wool, light effort;FALSCH
+9080;3;miscellaneous;sitting, arts and crafts,? carving wood, weaving, spinning wool, moderate effort;WAHR
+9085;2.5;miscellaneous;standing, arts and crafts, sand painting, carving, weaving, light effort;FALSCH
+9090;3.3;miscellaneous;standing, arts and crafts, sand painting, carving, weaving, moderate effort;WAHR
+9095;3.5;miscellaneous;standing, arts and crafts, sand painting, carving, weaving, vigorous effort;WAHR
+9100;1.8;miscellaneous;retreat/family reunion activities involving sitting, relaxing, talking, eating;FALSCH
+9101;3;miscellaneous;retreat/family reunion activities involving playing games with children;FALSCH
+9105;2;miscellaneous;touring/traveling/vacation involving riding in a vehicle;WAHR
+9106;3.5;miscellaneous;touring/traveling/vacation involving walking;WAHR
+9110;2.5;miscellaneous;camping involving standing, walking, sitting, light-to-moderate effort;WAHR
+9115;1.5;miscellaneous;sitting at a sporting event, spectator;WAHR
+10010;1.8;music playing;accordion, sitting;FALSCH
+10020;2.3;music playing;cello, sitting;FALSCH
+10030;2.3;music playing;conducting orchestra, standing;FALSCH
+10035;2.5;music playing;double bass, standing?;FALSCH
+10040;3.8;music playing;drums, sitting;FALSCH
+10045;3;music playing;drumming (e.g., bongo, conga, benbe), moderate, sitting;FALSCH
+10050;2;music playing;flute, sitting;FALSCH
+10060;1.8;music playing;horn, standing;FALSCH
+10070;2.3;music playing;piano, sitting;FALSCH
+10074;2;music playing;playing musical instruments, general?;FALSCH
+10077;2;music playing;organ, sitting?;FALSCH
+10080;3.5;music playing;trombone, standing;FALSCH
+10090;1.8;music playing;trumpet, standing;FALSCH
+10100;2.5;music playing;violin, sitting;FALSCH
+10110;1.8;music playing;woodwind, sitting;FALSCH
+10120;2;music playing;guitar, classical, folk, sitting;WAHR
+10125;3;music playing;guitar, rock and roll band, standing;WAHR
+10130;4;music playing;marching band, baton twirling, walking, moderate pace, general;WAHR
+10131;5.5;music playing;marching band, playing an instrument, walking, brisk pace, general?;FALSCH
+10135;3.5;music playing;marching band, drum major, walking;WAHR
+11003;2.3;occupation;active workstation, treadmill desk, walking?;FALSCH
+11006;3;occupation;airline flight attendant?;FALSCH
+11010;4;occupation;bakery, general, moderate effort;WAHR
+11015;2;occupation;bakery, light effort;FALSCH
+11020;2.3;occupation;bookbinding;FALSCH
+11030;2.5;miscellaneous;building road, driving heavy machinery;WAHR
+11035;1.5;miscellaneous;building road, directing traffic, standing;WAHR
+11038;1.5;miscellaneous;carpentry, general, light effort?;FALSCH
+11040;1.5;miscellaneous;carpentry, general, moderate effort;FALSCH
+11042;1.8;miscellaneous;carpentry, general, heavy or vigorous effort?;FALSCH
+11050;1;miscellaneous;carrying heavy loads (e.g., bricks, tools);WAHR
+11060;1.3;miscellaneous;carrying moderate loads up stairs, moving boxes 25-49 lbs;WAHR
+11070;1.3;miscellaneous;chambermaid, hotel housekeeper, making bed, cleaning bathroom, pushing cart;FALSCH
+11080;1;miscellaneous;coal mining, drilling coal, rock;FALSCH
+11090;1.8;miscellaneous;coal mining, erecting supports;FALSCH
+11100;1.5;miscellaneous;coal mining, general;FALSCH
+11110;1.3;miscellaneous;coal mining, shoveling coal;FALSCH
+11115;1.8;miscellaneous;cook, chef;FALSCH
+11120;1.8;miscellaneous;construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous);FALSCH
+11125;2.5;miscellaneous;custodial work, light effort (e.g., cleaning sink and toilet, dusting, vacuuming, light cleaning);FALSCH
+11126;1.8;miscellaneous;custodial work, moderate effort (e.g., electric buffer, feathering arena floors, mopping, taking out trash, vacuuming);FALSCH
+11130;3;miscellaneous;electrical work (e.g., hook up wire, tapping-splicing);FALSCH
+11135;2.5;miscellaneous;engineer (e.g., mechanical or electrical);FALSCH
+11145;3.3;miscellaneous;farming, vigorous effort (e.g., baling hay, cleaning barn)?;FALSCH
+11146;3.5;miscellaneous;farming, moderate effort (e.g., feeding animals, chasing cattle by walking and/or horseback, spreading manure, harvesting crops);FALSCH
+11147;1.8;miscellaneous;farming, light effort (e.g., cleaning animal sheds, preparing animal feed)?;FALSCH
+11170;3;miscellaneous;farming, driving tasks (e.g., driving tractor or harvester)?;FALSCH
+11180;2;miscellaneous;farming, feeding small animals;FALSCH
+11190;3.5;miscellaneous;farming, feeding cattle, horses;FALSCH
+11191;2.5;miscellaneous;farming, hauling water for animals, general hauling water,farming, general hauling water;FALSCH
+11192;1.5;miscellaneous;farming, taking care of animals (e.g., grooming, brushing, shearing sheep, assisting with birthing, medical care, branding), general;FALSCH
+11195;1.8;music playing;farming, rice, planting, grain milling activities;FALSCH
+11210;2.3;music playing;farming, milking by hand, cleaning pails, moderate effort;FALSCH
+11220;2.3;music playing;farming, milking by machine, light effort;FALSCH
+11240;2.5;music playing;fire fighter, general;FALSCH
+11244;3.8;music playing;fire fighter, rescue victim, automobile accident, using pike pole;FALSCH
+11245;3;music playing;fire fighter, raising and climbing ladder with full gear, simulated fire supression;FALSCH
+11246;2;music playing;fire fighter, hauling hoses on ground, carrying/hoisting equipment, breaking down walls etc., wearing full gear;FALSCH
+11247;1.8;music playing;fishing, commercial, light effort;WAHR
+11248;2.3;music playing;fishing, commercial, moderate effort;WAHR
+11249;2;music playing;fishing, commercial, vigorous effort;WAHR
+11250;2;music playing;forestry, ax chopping, very fast, 1.25 kg axe, 51 blows/min, extremely vigorous effort;FALSCH
+11260;3.5;music playing;forestry, ax chopping, slow,?1.25 kg axe, 19 blows/min, moderate effort;FALSCH
+11262;1.8;music playing;forestry, ax chopping, fast, 1.25 kg axe, 35 blows/min, vigorous effort;FALSCH
+11264;2.5;music playing;forestry, moderate effort (e.g., sawing wood with power saw, weeding, hoeing);FALSCH
+11266;1.8;music playing;forestry, vigorous effort (e.g., barking, felling, or trimming trees, carrying or stacking logs, planting seeds, sawing lumber by hand);FALSCH
+11370;2;music playing;furriery;FALSCH
+11375;3;music playing;garbage collector, walking, dumping bins into truck;FALSCH
+11378;4;music playing;hairstylist (e.g., plaiting hair, manicure, make-up artist);FALSCH
+11380;5.5;music playing;horse grooming, including?feeding, cleaning stalls, bathing, brushing, clipping,?longeing and exercising horses;FALSCH
+11381;3.5;music playing;horse, feeding, watering, cleaning stalls, implied walking and lifting loads;WAHR
+11390;2.3;occupation;horse racing, galloping;FALSCH
+11400;3;occupation;horse racing, trotting;FALSCH
+11410;4;occupation;horse racing, walking;FALSCH
+11413;2;occupation;kitchen maid?;FALSCH
+11415;2.3;occupation;lawn keeper, yard work, general;FALSCH
+11418;3.3;occupation;laundry worker;FALSCH
+11420;3;occupation;locksmith;FALSCH
+11430;3;occupation;machine tooling (e.g., machining, working sheet metal, machine fitter, operating lathe, welding) light-to-moderate effort;FALSCH
+11450;5;occupation;Machine tooling, operating punch press, moderate effort;FALSCH
+11472;1.8;occupation;manager, property;FALSCH
+11475;2.8;occupation;manual or unskilled labor, general, light effort;WAHR
+11476;4.5;occupation;manual or unskilled labor, general, moderate effort;WAHR
+11477;6.5;occupation;manual or unskilled labor, general, vigorous effort;WAHR
+11480;4.3;occupation;masonry, concrete, moderate effort;FALSCH
+11482;2.5;occupation;masonry, concrete, light effort?;FALSCH
+11485;4;occupation;massage therapist, standing;WAHR
+11490;7.5;occupation;moving, carrying or pushing heavy objects, 75 lbs or more, only active time (e.g., desks, moving van work);WAHR
+11495;12;occupation;skindiving or SCUBA diving as a frogman, Navy Seal;WAHR
+11500;2.5;occupation;operating heavy duty equipment, automated, not driving;WAHR
+11510;4.5;occupation;orange grove work, picking fruit;FALSCH
+11514;3.3;occupation;painting,house, furniture, moderate effort;FALSCH
+11516;3;occupation;plumbing activities?;WAHR
+11520;2;occupation;printing, paper industry worker, standing;FALSCH
+11525;2.5;occupation;police, directing traffic, standing;WAHR
+11526;2.5;occupation;police, driving a squad car, sitting;FALSCH
+11527;1.3;occupation;police, riding in a squad car, sitting;FALSCH
+11528;4;occupation;police, making an arrest, standing;WAHR
+11529;2.3;occupation;postal carrier, walking to deliver mail;FALSCH
+11530;2;occupation;shoe repair, general;FALSCH
+11540;7.8;occupation;shoveling, digging ditches;FALSCH
+11550;8.8;occupation;shoveling, more than 16 lbs/minute, deep digging, vigorous effort;FALSCH
+11560;5;occupation;shoveling, less than 10 lbs/minute, moderate effort;FALSCH
+11570;6.5;occupation;shoveling, 10 to 15 lbs/minute, vigorous effort;FALSCH
+11580;1.5;occupation;sitting tasks, light effort (e.g., office work, chemistry lab work, computer work, light assembly repair, watch repair, reading, desk work);FALSCH
+11585;1.5;occupation;sitting meetings, light effort, general, and/or with talking involved (e.g., eating at a business meeting);FALSCH
+11590;2.5;occupation;sitting tasks, moderate effort (e.g., pushing heavy levers, riding mower/forklift, crane operation);WAHR
+11593;2.8;occupation;sitting, teaching stretching or yoga, or light effort exercise class;WAHR
+11600;3;occupation;standing tasks, light effort (e.g., bartending, store clerk, assembling, filing, duplicating, librarian, putting up a Christmas tree, standing and talking at work,?changing clothes when teaching physical education, standing);FALSCH
+11610;3;occupation;standing, light/moderate effort (e.g., assemble/repair heavy parts, welding,stocking parts,auto repair,standing, packing boxes, nursing patient care);WAHR
+11615;4.5;occupation;standing, moderate effort, lifting items continuously, 10 ? 20 lbs, with limited walking or resting;FALSCH
+11620;3.5;occupation;standing, moderate effort, intermittent lifting 50 lbs, hitch/twisting ropes;FALSCH
+11630;4.5;occupation;standing, moderate/heavy tasks (e.g., lifting more than 50 lbs, masonry, painting, paper hanging);FALSCH
+11708;5.3;occupation;steel mill, moderate effort (e.g., fettling, forging, tipping molds);FALSCH
+11710;8.3;occupation;steel mill, vigorous effort (e.g., hand rolling, merchant mill rolling, removing slag, tending furnace);FALSCH
+11720;2.3;occupation;tailoring, cutting fabric;FALSCH
+11730;2.5;occupation;tailoring, general;FALSCH
+11740;1.8;occupation;tailoring, hand sewing;FALSCH
+11750;2.5;occupation;tailoring, machine sewing;FALSCH
+11760;3.5;occupation;tailoring, pressing;FALSCH
+11763;2;occupation;tailoring, weaving, light effort (e.g., finishing operations, washing, dyeing, inspecting cloth, counting yards, paperwork);FALSCH
+11765;4;occupation;tailoring, weaving, moderate effort (e.g., spinning and weaving operations, delivering boxes of yam to spinners, loading of warp bean, pinwinding,?conewinding, warping, cloth cutting);FALSCH
+11766;6.5;occupation;truck driving, loading and unloading truck, tying down load, standing, walking and carrying heavy loads;WAHR
+11767;2;occupation;Truch, driving delivery truck, taxi, shuttlebus, school bus;FALSCH
+11770;1.3;occupation;typing, electric, manual or computer;FALSCH
+11780;6.3;occupation;using heavy power tools such as pneumatic tools (e.g., jackhammers, drills);FALSCH
+11790;8;occupation;using heavy tools (not power) such as shovel, pick, tunnel bar, spade;FALSCH
+11791;2;occupation;walking on job, less than 2.0 mph, very slow speed, in office or lab area;FALSCH
+11792;3.5;occupation;walking on job, 3.0 mph, in office, moderate speed, not carrying anything;FALSCH
+11793;4.3;occupation;walking on job, 3.5 mph, in office, brisk speed, not carrying anything;FALSCH
+11795;3.5;occupation;walking on job, 2.5 mph, slow speed and carrying light objects less than 25 lbs;FALSCH
+11796;3;occupation;walking, gathering things at work, ready to leave;WAHR
+11797;3.8;occupation;walking, 2.5 mph, slow speed, carrying heavy objects more than 25 lbs;FALSCH
+11800;4.5;occupation;walking, 3.0 mph, moderately and carrying light objects less than 25 lbs;FALSCH
+11805;3.5;occupation;walking, pushing a wheelchair;FALSCH
+11810;4.8;occupation;walking, 3.5 mph, briskly and carrying objects less than 25 lbs;WAHR
+11820;5;occupation;walking or walk downstairs or standing, carrying objects about 25 to 49 lbs;WAHR
+11830;6.5;occupation;walking or walk downstairs or standing, carrying objects about 50 to 74 lbs;WAHR
+11840;7.5;occupation;walking or walk downstairs or standing, carrying objects about 75 to 99 lbs;WAHR
+11850;8.5;occupation;walking or walk downstairs or standing, carrying objects about 100 lbs or more;WAHR
+11870;3;occupation;working in scene shop, theater actor, backstage employee;WAHR
+12010;6;running;jog/walk combination (jogging component of less than 10 minutes) (Taylor Code 180);FALSCH
+12020;7;running;jogging, general;WAHR
+12025;8;running;jogging, in place;WAHR
+12027;4.5;running;jogging, on a mini-tramp;WAHR
+12029;6;running;Running, 4 mph (13 min/mile)?;FALSCH
+12030;8.3;running;running, 5 mph (12 min/mile);FALSCH
+12040;9;running;running, 5.2 mph (11.5 min/mile);WAHR
+12050;9.8;running;running, 6 mph (10 min/mile);FALSCH
+12060;10.5;running;running, 6.7 mph (9 min/mile);FALSCH
+12070;11;running;running, 7 mph (8.5 min/mile);FALSCH
+12080;11.5;running;running, 7.5 mph (8 min/mile);FALSCH
+12090;11.8;running;running, 8 mph (7.5 min/mile);FALSCH
+12100;12.3;running;running, 8.6 mph (7 min/mile);WAHR
+12110;12.8;running;running, 9 mph (6.5 min/mile);FALSCH
+12120;14.5;running;running, 10 mph (6 min/mile);FALSCH
+12130;16;running;running, 11 mph (5.5 min/mile);FALSCH
+12132;19;?running;running, 12 mph (5 min/mile)?;FALSCH
+12134;19.8;running;running, 13 mph (4.6 min/mile);FALSCH
+12135;23;running;running, 14 mph (4.3 min/mile)?;FALSCH
+12140;9;running;running, cross country;FALSCH
+12150;8;running;running, (Taylor code 200);FALSCH
+12170;15;running;running, stairs, up;WAHR
+12180;10;running;running, on a track, team practice;WAHR
+12190;8;running;running, training, pushing a wheelchair or baby carrier;WAHR
+12200;13.3;running;running, marathon;FALSCH
+13000;2.3;self care;getting ready for bed, general, standing;FALSCH
+13009;1.8;self care;sitting on toilet, eliminating while standing or squating;FALSCH
+13010;1.5;self care;bathing, sitting;WAHR
+13020;2.5;self care;dressing, undressing, standing or sitting;FALSCH
+13030;1.5;self care;eating, sitting;FALSCH
+13035;2;self care;talking and eating or eating only, standing;WAHR
+13036;1.5;self care;taking medication, sitting or standing;WAHR
+13040;2;self care;grooming, washing hands, shaving,?brushing teeth, putting on make-up, sitting or standing;FALSCH
+13045;2.5;self care;hairstyling, standing;WAHR
+13046;1.3;self care;having hair or nails done by someone else, sitting;WAHR
+13050;2;self care;showering, toweling off, standing;WAHR
+14010;2.8;sexual activity;active, vigorous effort;FALSCH
+14020;1.8;sexual activity;general, moderate effort;FALSCH
+14030;1.3;sexual activity;passive, light effort, kissing, hugging;FALSCH
+15000;5.5;sports;Alaska Native Games, Eskimo Olympics, general?;WAHR
+15010;4.3;sports;archery, non-hunting;FALSCH
+15020;7;sports;badminton, competitive (Taylor Code 450);FALSCH
+15030;5.5;sports;badminton, social singles and doubles, general;FALSCH
+15040;8;sports;basketball, game (Taylor Code 490);FALSCH
+15050;6;sports;basketball, non-game, general (Taylor Code 480);FALSCH
+15055;6.5;sports;basketball, general?;FALSCH
+15060;7;sports;basketball, officiating (Taylor Code 500);FALSCH
+15070;4.5;sports;basketball, shooting baskets;WAHR
+15072;9.3;sports;basketball, drills, practice?;FALSCH
+15075;7.8;sports;basketball, wheelchair;FALSCH
+15080;2.5;sports;billiards;FALSCH
+15090;3;sports;bowling (Taylor Code 390);FALSCH
+15092;3.8;sports;bowling, indoor, bowling alley?;FALSCH
+15100;12.8;sports;boxing, in ring, general;FALSCH
+15110;5.5;sports;boxing, punching bag;FALSCH
+15120;7.8;sports;boxing, sparring;FALSCH
+15130;7;sports;broomball;WAHR
+15135;5.8;sports;children?s games, adults playing (e.g., hopscotch, 4-square, dodgeball, playground apparatus, t-ball, tetherball, marbles, arcade games), moderate effort;FALSCH
+15138;6;sports;cheerleading, gymnastic moves, competitive?;WAHR
+15140;4;sports;coaching, football, soccer, basketball, baseball, swimming, etc.;WAHR
+15142;8;sports;coaching, actively playing sport with players?;FALSCH
+15150;4.8;sports;cricket, batting, bowling, fielding;FALSCH
+15160;3.3;sports;croquet;FALSCH
+15170;4;sports;curling;WAHR
+15180;2.5;sports;darts, wall or lawn;WAHR
+15190;6;sports;drag racing, pushing or driving a car;WAHR
+15192;8.5;sports;auto racing, open wheel;FALSCH
+15200;6;sports;fencing;WAHR
+15210;8;sports;football, competitive;FALSCH
+15230;8;sports;football, touch, flag, general (Taylor Code 510);FALSCH
+15232;4;sports;football, touch, flag, light effort;WAHR
+15235;2.5;sports;football or baseball, playing catch;WAHR
+15240;3;sports;frisbee playing, general;WAHR
+15250;8;sports;frisbee, ultimate;WAHR
+15255;4.8;sports;golf, general;FALSCH
+15265;4.3;sports;golf, walking, carrying clubs;FALSCH
+15270;3;sports;golf, miniature, driving range;WAHR
+15285;5.3;sports;golf, walking, pulling clubs?;FALSCH
+15290;3.5;sports;golf, using power cart (Taylor Code 070);FALSCH
+15300;3.8;sports;gymnastics, general;FALSCH
+15310;4;sports;hacky sack;WAHR
+15320;12;sports;handball, general (Taylor Code 520);FALSCH
+15330;8;sports;handball, team;WAHR
+15335;4;sports;high ropes course, multiple elements;FALSCH
+15340;3.5;sports;hang gliding;WAHR
+15350;7.8;sports;hockey, field;FALSCH
+15360;8;sports;hockey, ice, general;WAHR
+15362;10;sports;hockey, ice, competitive;WAHR
+15370;5.5;sports;horseback riding, general;FALSCH
+15375;4.3;sports;horse chores, feeding, watering, cleaning stalls, implied walking and lifting loads?;WAHR
+15380;4.5;sports;saddling, cleaning, grooming, harnessing and unharnessing horse;FALSCH
+15390;5.8;sports;horseback riding, trotting;FALSCH
+15395;7.3;sports;horseback riding, canter or gallop?;FALSCH
+15400;3.8;sports;horseback riding,walking;FALSCH
+15402;9;sports;horseback riding, jumping?;FALSCH
+15408;1.8;sports;horse cart, driving, standing or sitting;FALSCH
+15410;3;sports;horseshoe pitching, quoits;WAHR
+15420;12;sports;jai alai;WAHR
+15425;5.3;sports;martial arts, different types, slower pace, novice performers, practice;FALSCH
+15430;10.3;sports;martial arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwan do, tai-bo, Muay Thai boxing);FALSCH
+15440;4;sports;juggling;WAHR
+15450;7;sports;kickball;WAHR
+15460;8;sports;lacrosse;WAHR
+15465;3.3;sports;lawn bowling, bocce ball, outdoor?;FALSCH
+15470;4;sports;moto-cross, off-road motor sports, all-terrain vehicle, general;WAHR
+15480;9;sports;orienteering;WAHR
+15490;10;sports;paddleball, competitive;WAHR
+15500;6;sports;paddleball, casual, general (Taylor Code 460);FALSCH
+15510;8;sports;polo, on horseback;WAHR
+15520;10;sports;racquetball, competitive;WAHR
+15530;7;sports;racquetball, general (Taylor Code 470);FALSCH
+15533;8;sports;rock or mountain climbing (Taylor Code 470)?(Formerly code = 17120)?;FALSCH
+15535;7.5;sports;rock climbing, ascending rock, high difficulty;FALSCH
+15537;5.8;sports;rock climbing, ascending or traversing rock, low-to-moderate difficulty?;FALSCH
+15540;5;sports;rock climbing, rappelling;WAHR
+15542;4;sports;rodeo sports, general, light effort;WAHR
+15544;5.5;sports;rodeo sports, general, moderate effort;WAHR
+15546;7;sports;rodeo sports, general, vigorous effort;WAHR
+15550;12.3;sports;rope jumping, fast pace, 120-160 skips/min;FALSCH
+15551;11.8;sports;rope jumping, moderate pace, 100-120 skips/min, general,? 2 foot skip, plain bounce;FALSCH
+15552;8.8;sports;rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce;FALSCH
+15560;8.3;sports;rugby, union, team, competitive;FALSCH
+15562;6.3;sports;rugby, touch, non-competitive;FALSCH
+15570;3;sports;shuffleboard;WAHR
+15580;5;sports;skateboarding, general, moderate effort;WAHR
+15582;6;sports;skateboarding, competitive, vigorous effort?;WAHR
+15590;7;sports;skating, roller (Taylor Code 360);FALSCH
+15591;7.5;sports;rollerblading, in-line skating, 14.4 km/h (9.0 mph), recreational pace;FALSCH
+15592;9.8;sports;rollerblading, in-line skating, 17.7 km/h (11.0 mph), moderate pace, exercise training;FALSCH
+15593;12.3;sports;rollerblading, in-line skating, 21.0 to 21.7 km/h (13.0 to 13.6 mph), fast pace, exercise training;FALSCH
+15594;14;sports;rollerblading, in-line skating, 24.0 km/h (15.0 mph), maximal effort;FALSCH
+15600;3.5;sports;skydiving, base jumping, bungee jumping?;WAHR
+15605;10;sports;soccer, competitive;FALSCH
+15610;7;sports;soccer, casual, general (Taylor Code 540);FALSCH
+15620;5;sports;softball or baseball, fast or slow pitch, general (Taylor Code 440);FALSCH
+15625;4;sports;softball, practice?;FALSCH
+15630;4;sports;softball, officiating;WAHR
+15640;6;sports;softball,pitching;WAHR
+15645;3.3;sports;sports spectator, very excited, emotional, physically moving??;FALSCH
+15650;12;sports;squash (Taylor Code 530);FALSCH
+15652;7.3;sports;squash, general?;FALSCH
+15660;4;sports;table tennis, ping pong (Taylor Code 410);FALSCH
+15670;3;sports;tai chi, qi gong, general;FALSCH
+15672;1.5;sports;tai chi, qi gong, sitting, light effort;FALSCH
+15675;7.3;sports;tennis, general;FALSCH
+15680;6;sports;tennis, doubles (Taylor Code 430);FALSCH
+15685;4.5;sports;tennis, doubles;FALSCH
+15690;8;sports;tennis, singles (Taylor Code 420);FALSCH
+15695;5;sports;tennis, hitting balls, non-game play, moderate effort?;WAHR
+15700;3.5;sports;trampoline, recreational;WAHR
+15702;4.5;sports;trampoline, competitive;WAHR
+15710;4;sports;volleyball (Taylor Code 400);FALSCH
+15711;6;sports;volleyball, competitive, in gymnasium;FALSCH
+15720;3;sports;volleyball, non-competitive, 6 - 9 member team, general;FALSCH
+15725;8;sports;volleyball, beach, in sand;WAHR
+15730;6;sports;wrestling (one match = 5 minutes);WAHR
+15731;7;sports;wallyball, general;WAHR
+15732;4;sports;track and field (e.g., shot, discus, hammer throw);WAHR
+15733;6;sports;track and field (e.g., high jump, long jump, triple jump, javelin, pole vault);WAHR
+15734;10;sports;track and field (e.g., steeplechase, hurdles);WAHR
+16010;2.5;transportation;automobile or light truck (not a semi) driving;FALSCH
+16015;1.3;transportation;riding in a car or truck;FALSCH
+16016;1.3;transportation;riding in a bus or train;FALSCH
+16020;1.8;transportation;flying airplane or helicopter;FALSCH
+16030;3.5;transportation;motor scooter, motorcycle;FALSCH
+16035;6.3;transportation;pulling rickshaw?;FALSCH
+16040;6;transportation;pushing plane in and out of hangar;WAHR
+16050;2.5;transportation;truck, semi, tractor, > 1 ton, or bus, driving;FALSCH
+16060;3.5;transportation;walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface?;FALSCH
+17010;7;walking;backpacking (Taylor Code 050);FALSCH
+17012;7.8;walking;backpacking, hiking or organized walking with a daypack;FALSCH
+17020;5;walking;carrying 15 pound load (e.g. suitcase), level ground or downstairs;FALSCH
+17021;2.3;walking;carrying 15 lb child, slow walking;FALSCH
+17025;8.3;walking;carrying load upstairs, general;WAHR
+17026;5;walking;carrying 1 to 15 lb load, upstairs;WAHR
+17027;6;walking;carrying 16 to 24 lb load, upstairs;WAHR
+17028;8;walking;carrying 25 to 49 lb load, upstairs;WAHR
+17029;10;walking;carrying 50 to 74 lb load, upstairs;WAHR
+17030;12;walking;carrying > 74 lb load, upstairs;WAHR
+17031;3.5;walking;loading /unloading a car, implied walking;WAHR
+17033;6.3;walking;climbing hills, no load;FALSCH
+17035;6.5;walking;climbing hills with 0 to 9 lb load;FALSCH
+17040;7.3;walking;climbing hills with 10 to 20 lb load;FALSCH
+17050;8.3;walking;climbing hills with 21 to 42 lb load;FALSCH
+17060;9;walking;climbing hills with 42+ lb load;WAHR
+17070;3.5;walking;descending stairs;FALSCH
+17080;6;walking;hiking, cross country (Taylor Code 040);FALSCH
+17082;5.3;walking;hiking or walking at a normal pace through fields and hillsides?;FALSCH
+17085;2.5;walking;bird watching, slow walk;WAHR
+17088;4.5;walking;marching, moderate speed, military, no pack;FALSCH
+17090;8;walking;marching rapidly, military, no pack;FALSCH
+17100;4;walking;pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph;FALSCH
+17105;3.8;walking;pushing a wheelchair, non-occupational?;FALSCH
+17110;6.5;walking;race walking;WAHR
+17130;8;walking;stair climbing, using or climbing up ladder (Taylor Code 030);FALSCH
+17133;4;walking;stair climbing, slow pace;FALSCH
+17134;8.8;walking;stair climbing, fast pace;FALSCH
+17140;5;walking;using crutches;FALSCH
+17150;2;walking;walking, household;WAHR
+17151;2;walking;walking, less than 2.0 mph, level, strolling, very slow;FALSCH
+17152;2.8;walking;walking, 2.0 mph, level, slow pace, firm surface;FALSCH
+17160;3.5;walking;walking for pleasure (Taylor Code 010);FALSCH
+17161;2.5;walking;walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite;WAHR
+17162;2.5;walking;walking to neighbor?s house or family?s house for social reasons;WAHR
+17165;3;walking;walking the dog;WAHR
+17170;3;walking;walking, 2.5 mph, level, firm surface;FALSCH
+17180;3.3;walking;walking, 2.5 mph, downhill;FALSCH
+17190;3.5;walking;walking, 2.8 to 3.2 mph, level, moderate pace, firm surface;FALSCH
+17200;4.3;walking;walking, 3.5 mph, level, brisk, firm surface, walking for exercise;FALSCH
+17210;5.3;walking;walking, 2.9 to 3.5 mph, uphill, 1 to 5% grade;FALSCH
+17211;8;walking;walking, 2.9 to 3.5 mph, uphill, 6% to 15% grade;FALSCH
+17220;5;walking;walking, 4.0 mph, level, firm surface, very brisk pace;FALSCH
+17230;7;walking;walking, 4.5 mph, level, firm surface, very, very brisk;FALSCH
+17231;8.3;walking;walking, 5.0 mph, level, firm surface;FALSCH
+17235;9.8;walking;walking, 5.0 mph, uphill, 3% grade;FALSCH
+17250;3.5;walking;walking, for pleasure, work break;FALSCH
+17260;4.8;walking;walking, grass track;FALSCH
+17262;4.5;walking;walking, normal pace, plowed field or sand?;FALSCH
+17270;4;walking;walking, to work or class (Taylor Code 015);FALSCH
+17280;2.5;walking;walking, to and from an outhouse;WAHR
+17302;4.8;walking;walking, for exercise, 3.5 to 4 mph, with ski poles, Nordic walking, level, moderate pace?;FALSCH
+17305;9.5;walking;walking, for exercise, 5.0 mph, with ski poles, Nordic walking, level, fast pace?;FALSCH
+17310;6.8;walking;walking, for exercise, with ski poles, Nordic walking, uphill;WAHR
+17320;6;walking;walking, backwards, 3.5 mph, level?;FALSCH
+17325;8;walking;walking, backwards, 3.5 mph, uphill, 5% grade;FALSCH
+18010;2.5;water activities;boating, power, driving;WAHR
+18012;1.3;water activities;boating, power, passenger, light?;WAHR
+18020;4;water activities;canoeing, on camping trip (Taylor Code 270);FALSCH
+18025;3.3;water activities;canoeing, harvesting wild rice, knocking rice off the stalks;FALSCH
+18030;7;water activities;canoeing, portaging;WAHR
+18040;2.8;water activities;canoeing, rowing, 2.0-3.9 mph, light effort;FALSCH
+18050;5.8;water activities;canoeing, rowing, 4.0-5.9 mph, moderate effort;FALSCH
+18060;12.5;water activities;canoeing, rowing, kayaking, competition, >6 mph, vigorous effort;FALSCH
+18070;3.5;water activities;canoeing, rowing, for pleasure, general (Taylor Code 250);FALSCH
+18080;12;water activities;canoeing, rowing, in competition, or crew or sculling (Taylor Code 260);FALSCH
+18090;3;water activities;diving, springboard or platform;WAHR
+18100;5;water activities;kayaking, moderate effort;FALSCH
+18110;4;water activities;paddle boat;FALSCH
+18120;3;water activities;sailing, boat and board sailing, windsurfing, ice sailing, general (Taylor Code 235);FALSCH
+18130;4.5;water activities;sailing, in competition;FALSCH
+18140;3.3;water activities;sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure;FALSCH
+18150;6;water activities;skiing, water or wakeboarding (Taylor Code 220);FALSCH
+18160;7;water activities;jet skiing, driving, in water;FALSCH
+18180;15.8;water activities;skindiving, fast;FALSCH
+18190;11.8;water activities;skindiving, moderate;FALSCH
+18200;7;water activities;skindiving, scuba diving, general (Taylor Code 310);FALSCH
+18210;5;water activities;snorkeling (Taylor Code 310);FALSCH
+18220;3;water activities;surfing, body or board, general;WAHR
+18222;5;water activities;surfing, body or board, competitive;WAHR
+18225;6;water activities;paddle boarding, standing;WAHR
+18230;9.8;water activities;swimming laps, freestyle, fast, vigorous effort;FALSCH
+18240;5.8;water activities;swimming laps, freestyle, front crawl, slow, light or moderate effort;FALSCH
+18250;9.5;water activities;swimming, backstroke, general, training or competition;FALSCH
+18255;4.8;water activities;swimming, backstroke, recreational;FALSCH
+18260;10.3;water activities;swimming, breaststroke, general, training or competition;FALSCH
+18265;5.3;water activities;swimming, breaststroke, recreational?;FALSCH
+18270;13.8;water activities;swimming, butterfly, general;FALSCH
+18280;10;water activities;swimming, crawl, fast speed, ~75 yards/minute, vigorous effort;FALSCH
+18290;8.3;water activities;swimming, crawl, medium speed, ~50 yards/minute, vigorous effort;FALSCH
+18300;6;water activities;swimming, lake, ocean, river (Taylor Codes 280, 295);FALSCH
+18310;6;water activities;swimming, leisurely, not lap swimming, general;WAHR
+18320;7;water activities;swimming, sidestroke, general;FALSCH
+18330;8;water activities;swimming, synchronized;WAHR
+18340;9.8;water activities;swimming, treading water, fast, vigorous effort;FALSCH
+18350;3.5;water activities;swimming, treading water, moderate effort, general;FALSCH
+18352;2.3;water activities;tubing, floating on a river, general;WAHR
+18355;5.5;water activities;water aerobics, water calisthenics;FALSCH
+18360;10;water activities;water polo;WAHR
+18365;3;water activities;water volleyball;WAHR
+18366;9.8;water activities;water jogging;FALSCH
+18367;2.5;water activities;water walking, light effort, slow pace;FALSCH
+18368;4.5;water activities;water walking, moderate effort, moderate pace;FALSCH
+18369;6.8;water activities;water walking, vigorous effort, brisk pace;FALSCH
+18370;5;water activities;whitewater rafting, kayaking, or canoeing;WAHR
+18380;5;water activities;windsurfing, not pumping for speed;FALSCH
+18385;11;water activities;windsurfing or kitesurfing, crossing trial;FALSCH
+18390;13.5;water activities;windsurfing, competition, pumping for speed;FALSCH
+19005;7.5;winter activities;dog sledding, mushing?;WAHR
+19006;2.5;winter activities;dog sledding, passenger?;WAHR
+19010;6;winter activities;moving ice house, set up/drill holes;WAHR
+19011;2;winter activities;ice fishing, sitting?;WAHR
+19018;14;winter activities;skating, ice dancing;FALSCH
+19020;5.5;winter activities;skating, ice, 9 mph or less;WAHR
+19030;7;winter activities;skating, ice, general (Taylor Code 360);FALSCH
+19040;9;winter activities;skating, ice, rapidly, more than 9 mph, not competitive;WAHR
+19050;13.3;winter activities;skating, speed, competitive;FALSCH
+19060;7;winter activities;ski jumping, climb up carrying skis;WAHR
+19075;7;winter activities;skiing, general;WAHR
+19080;6.8;winter activities;skiing, cross country, 2.5 mph, slow or light effort, ski walking;FALSCH
+19090;9;winter activities;skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general;FALSCH
+19100;12.5;winter activities;skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort;FALSCH
+19110;15;winter activities;skiing, cross country, >8.0 mph, elite skier, racing;FALSCH
+19130;15.5;winter activities;skiing, cross country, hard snow, uphill, maximum, snow mountaineering;FALSCH
+19135;13.3;winter activities;skiing, cross-country, skating?;FALSCH
+19140;13.5;winter activities;skiing, cross-country, biathlon, skating technique?;FALSCH
+19150;4.3;winter activities;skiing, downhill, alpine or snowboarding, light effort, active time only;FALSCH
+19160;5.3;winter activities;skiing, downhill, alpine or snowboarding, moderate effort, general, active time only;FALSCH
+19170;8;winter activities;skiing, downhill, vigorous effort, racing;WAHR
+19175;12.5;winter activities;skiing, roller, elite racers;FALSCH
+19180;7;winter activities;sledding, tobogganing, bobsledding, luge (Taylor Code 370);FALSCH
+19190;5.3;winter activities;snow shoeing, moderate effort;FALSCH
+19192;10;winter activities;snow shoeing, vigorous effort;FALSCH
+19200;3.5;winter activities;snowmobiling, driving, moderate;WAHR
+19202;2;winter activities;snowmobiling, passenger;WAHR
+19252;5.3;winter activities;snow shoveling, by hand, moderate effort;FALSCH
+19254;7.5;winter activities;snow shoveling, by hand, vigorous effort;FALSCH
+19260;2.5;winter activities;snow blower, walking and pushing;FALSCH
+20000;1.3;religious activities;sitting in church, in service, attending a ceremony, sitting quietly;FALSCH
+20001;2;religious activities;sitting, playing an instrument at church;FALSCH
+20005;1.8;religious activities;sitting in church, talking or singing, attending a ceremony, sitting, active participation;FALSCH
+20010;1.3;religious activities;sitting, reading religious materials at home;FALSCH
+20015;1.3;religious activities;standing quietly in church, attending a ceremony;FALSCH
+20020;2;religious activities;standing, singing in church, attending a ceremony, standing, active participation;WAHR
+20025;1.3;religious activities;kneeling in church or at home, praying;WAHR
+20030;1.8;religious activities;standing, talking in church;FALSCH
+20035;2;religious activities;walking in church;FALSCH
+20036;2;religious activities;walking, less than 2.0 mph, very slow;FALSCH
+20037;3.5;religious activities;walking, 3.0 mph, moderate speed, not carrying anything;FALSCH
+20038;4.3;religious activities;walking, 3.5 mph, brisk speed, not carrying anything;FALSCH
+20039;2;religious activities;walk/stand combination for religious purposes, usher;WAHR
+20040;5;religious activities;praise with dance or run, spiritual dancing in church;WAHR
+20045;2.5;religious activities;serving food at church;FALSCH
+20046;2;religious activities;preparing food at church;FALSCH
+20047;3.3;religious activities;washing dishes, cleaning kitchen at church;FALSCH
+20050;1.5;religious activities;eating at church;FALSCH
+20055;2;religious activities;eating/talking at church or standing eating, American Indian Feast days;FALSCH
+20060;3.3;religious activities;cleaning church;FALSCH
+20061;4;religious activities;general yard work at church;FALSCH
+20065;3.5;religious activities;standing, moderate effort (e.g., lifting heavy objects, assembling at fast rate);FALSCH
+20095;4.5;religious activities;Standing, moderate-to-heavy effort, manual labor, lifting ? 50 lbs, heavy maintenance;FALSCH
+20100;1.3;religious activities;typing, electric, manual, or computer;FALSCH
+21000;1.5;volunteer activities;sitting, meeting, general, and/or with talking involved;FALSCH
+21005;1.5;volunteer activities;sitting, light office work, in general;FALSCH
+21010;2.5;volunteer activities;sitting, moderate work;FALSCH
+21015;2.3;volunteer activities;standing, light work (filing, talking, assembling);FALSCH
+21016;2;volunteer activities;sitting, child care, only active periods;FALSCH
+21017;3;volunteer activities;standing, child care, only active periods;FALSCH
+21018;3.5;volunteer activities;walk/run play with children, moderate, only active periods;FALSCH
+21019;5.8;volunteer activities;walk/run play with children, vigorous, only active periods;FALSCH
+21020;3;volunteer activities;standing, light/moderate work (e.g., pack boxes, assemble/repair, set up chairs/furniture);FALSCH
+21025;3.5;volunteer activities;standing, moderate (lifting 50 lbs., assembling at fast rate);FALSCH
+21030;4.5;volunteer activities;standing, moderate/heavy work;FALSCH
+21035;1.3;volunteer activities;typing, electric, manual, or computer;FALSCH
+21040;2;volunteer activities;walking, less than 2.0 mph, very slow;FALSCH
+21045;3.5;volunteer activities;walking, 3.0 mph, moderate speed, not carrying anything;FALSCH
+21050;4.3;volunteer activities;walking, 3.5 mph, brisk speed, not carrying anything;FALSCH
+21055;3.5;volunteer activities;walking, 2.5 mph slowly and carrying objects less than 25 lbs;FALSCH
+21060;4.5;volunteer activities;walking, 3.0 mph moderately and carrying objects less than 25 lbs, pushing something;FALSCH
+21065;4.8;volunteer activities;walking, 3.5 mph, briskly and carrying objects less than 25 lbs;FALSCH
+21070;3;volunteer activities;walk/stand combination, for volunteer purposes;FALSCH

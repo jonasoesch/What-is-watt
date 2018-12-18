@@ -1,0 +1,4 @@
+Type of building/purpose;Capacity (kg);Speed (m/s);No. of stops;Wh per cycle;No. of travel cycles p.a.;kWh p.a., including stand-by;% in stand-by mode
+Small apartment building;630;1;6;4;40000;950;83
+Office block/medium- sized apartment block;1000;1.5;8;13;200000;4350;40
+Hospital, large office block;2000;2;12;19;700000;17700;25

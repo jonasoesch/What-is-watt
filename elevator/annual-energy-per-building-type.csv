@@ -1,0 +1,9 @@
+Type of building, purpose;No. of lifts;%;Stories;Hoist height in m;Travel cycles per year;Speed in m/s;Motor capacity in kW;Stand-by capacity in kW;GWh per year in Standby;GWh per year in Motion;GWh per year in Total
+Residential dwellings;97500;65;6;14;40000;1;6;90;77;16;93
+Hospitals;1500;1;12;30.8;700000;2;25;500;7;19;26
+Clinics;13500;9;8;19.6;300000;1.6;10;200;24;24;48
+Shops;6000;4;3;5.6;200000;1.6;20;150;8;4;12
+Offices;18000;12;8;19.6;200000;1.5;21;200;31;48;79
+Car parks;6000;4;4;8.4;60000;1.6;18;100;5;2;7
+Industrial buildings (goods lifts);7500;5;4;8.4;40000;0.8;30;150;10;4;14
+Total;150000;100;;;;;;162;117;279;58
