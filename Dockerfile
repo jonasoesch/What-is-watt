@@ -1,4 +1,6 @@
-# Use an official Python runtime as a parent image
+# https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook
+# https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-minimal-notebook
+# https://docs.docker.com/get-started/part2/#define-a-container-with-dockerfile
 FROM jupyter/scipy-notebook
 
 # Set the working directory to /app
